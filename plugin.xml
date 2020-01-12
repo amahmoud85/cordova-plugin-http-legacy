@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns:android="http://schemas.android.com/apk/res/android" id="cordova-plugin-http-legacy"
-	version="1.0.0" xmlns="http://apache.org/cordova/ns/plugins/1.0">
+	version="5.1.0" xmlns="http://apache.org/cordova/ns/plugins/1.0">
 	<name>Cordova Plugin - HTTP Legacy</name>
 	<description>Adds HTTP Legacy library to solve bug</description>
 	<author>Rodigo</author>
@@ -10,7 +10,7 @@
 	<issue></issue>
 
 	<engines>
-		<engine name="cordova" version=">=8.0" />
+		<engine name="cordova" version=">=3.0.0" />
 	</engines>
 
 	<platform name="android">
